@@ -4,3 +4,5 @@
 tmp-build
 .DS_Store
 .idea
+.vscode
+vendor/
